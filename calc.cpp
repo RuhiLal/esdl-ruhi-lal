@@ -7,6 +7,6 @@
 #include<stdio.h>
 int main()
 {
-  printf("This ia a calculator program");
+  printf("This is a calculator program");
   
 }
