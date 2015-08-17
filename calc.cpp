@@ -2,11 +2,12 @@
 
 // Functions are written to perform add subtract multiply and divide.
 
-// This is my first github assignment
+// this is a branch
 
 #include<stdio.h>
 int main()
 {
   printf("This is a calculator program");
+  printf("This file is edited in a branch");
   
 }
